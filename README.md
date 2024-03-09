@@ -1,4 +1,4 @@
-# Sales Prediction Task README
+# Sales Prediction 
 
 ## Overview
 This repository contains the code and data for the Sales Prediction task, where the objective is to predict sales based on various features. In this task, we perform data cleaning to handle missing values, conduct exploratory data analysis (EDA), remove outliers, and build predictive models using linear regression, random forest, and gradient boosting algorithms.
